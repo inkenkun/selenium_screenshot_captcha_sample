@@ -1,0 +1,16 @@
+{
+  "name": "browz.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "browz.js",
+  "dependencies": {
+    "async": "^1.5.2",
+    "del": "^2.2.0",
+    "selenium-webdriver": "^2.48.2",
+    "gm": "^1.21.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
