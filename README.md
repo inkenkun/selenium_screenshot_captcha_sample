@@ -1,0 +1,2 @@
+# selenium_screenshot_captcha_sample
+seleniumでブラウザのキャプチャサンプル
